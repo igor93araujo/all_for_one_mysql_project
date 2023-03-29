@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Boas vindas ao repositório do projeto All For One
+
+<summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+
+Esse projeto com o codinome _All For One_ em teve como objetivo realizar a prática todos os conceitos de SQL estudados até então. Para sua  realização, utilizei o banco de dados `Northwind`, integrado ao meu computador por meio do docker para criação de container e imagem do banco, manipulado com auxílio do programa MySql WorkBench. 

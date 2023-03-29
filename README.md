@@ -10,5 +10,5 @@ Durante a execução do projeto abordei e apliquei queries (comandos) de SQL res
 
 <summary>Queries utilizadas:
 SELECT, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, DATE, INSERT, UPDATE, DELETE
-
-<sumary>É importante salientar que cada query está em um arquivo de desafioN, em que N representa o número do respectivo desafio. 
+<br /><br />
+<summary>É importante salientar que cada query está em um arquivo de desafioN, em que N representa o número do respectivo desafio. 

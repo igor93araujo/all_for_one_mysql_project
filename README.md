@@ -7,8 +7,8 @@ Esse projeto com o codinome _All For One_ em teve como objetivo realizar a prát
 <summary><strong>👨‍💻 Habilidades técnicas envolvidas</strong></summary><br />
 
 Durante a execução do projeto abordei e apliquei queries (comandos) de SQL responsáveis por localizar, criar, editar/ atualizar e deletar dados de tabelas oriundas do banco de dados Northwind. <br /><br />
-Queries utilizadas:
 
-<summary> SELECT, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, DATE, INSERT, UPDATE, DELETE
+<summary>Queries utilizadas:
+SELECT, CONCAT, DISTINCT, COUNT, LIMIT, OFFSET, ORDER BY, WHERE, LIKE, IN, BETWEEN, DATE, INSERT, UPDATE, DELETE
 
-<sumary> É importante salientar que cada query está em um arquivo de desafioN, em que N representa o número do respectivo desafio. 
+<sumary>É importante salientar que cada query está em um arquivo de desafioN, em que N representa o número do respectivo desafio. 
